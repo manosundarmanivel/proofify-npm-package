@@ -1,0 +1,18 @@
+{
+    "name": "proofify",
+    "version": "1.0.0",
+    "description": "A bot detection system ",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        
+        "axios": "^0.21.1" ,
+        "crypto": "^1.0.1",
+        "crypto-browserify": "^3.12.0",
+        "fs": "^0.0.1-security"
+    },
+    "author": "Mano Sundar M",
+    "license": "MIT"
+}
